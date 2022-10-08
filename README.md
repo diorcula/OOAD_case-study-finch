@@ -4,7 +4,7 @@ Java console applicatie voor de case study: Finch van OOAD
 Description | Data
 ---|---
 Naam student | J. van Aalst; 
-             | F. Soffers; 567780
+--- | F. Soffers; 567780
 Opleiding | HBO-ICT, Software Development
 Studiejaar | 2022 / 2023
 Begeleidende docent | 
